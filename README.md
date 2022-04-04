@@ -77,6 +77,8 @@ UTU RAS open project
 
     Menbers update each other regularly on their work progress, and hold regular offilne meetings at least once a fortnight for project progress review and outlook. The initial deployment of rplidar and mapping algorithms on top of slam will be completed within two weeks. It spends on data anaylsis and processing, and the remaining time is spent on algorithm optimization.
 
+    ![gantt chart](README_images/gantt_chart.png)
+
 9. Description of final experiment or demonstration
 
     Control robots in the unkown environments, for example ICT City first floor and 6th floor, scan and mapping in the slam. If it is possible, we will try navigate on the map after mapping with 2 or more robots.
