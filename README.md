@@ -77,4 +77,4 @@ UTU RAS open project
 
 9. Description of final experiment or demonstration
 
-    Control robots in the unkown environments, for example ICT City first floor and 6th floor.
+    Control robots in the unkown environments, for example ICT City first floor and 6th floor, scan and mapping in the slam. If it is possible, we will try navigate on the map after mapping with 2 or more robots.
