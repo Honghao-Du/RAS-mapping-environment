@@ -37,7 +37,9 @@ UTU RAS open project
     - Algorithms.
         - Path planning, Mapping, Sensor fusion.
     - Data flow.
-        - 
+        - With laptop, robots and tello drone.
+
+        ![data flow](README_images/data_flow.drawio.png)
 
 4. GitHub repo link
 
@@ -65,15 +67,15 @@ UTU RAS open project
 
     Honghao Du: Drive and control robots and sensors. Mapping in the slam.
 
-    Wei Zhou: (update later)
+    Wei Zhou: Map data record and preprocessed data.
     
-    Bintao Tian: (update later)
+    Bintao Tian: Run the rplidar in the slam. Mapping algorithm.
     
     Aklilu Gebremariam: (update later)
 
-8. Work packages (how is the work going to be divided among team members and in time), with tentative project schedule.
+8. Work packages, with tentative project schedule.
 
-    *Explain how the different tasks are divided and who is taking charge of each part (roughly). These should be more fine-grained than the previous section. Include a simple Gantt chart*
+    Menbers update each other regularly on their work progress, and hold regular offilne meetings at least once a fortnight for project progress review and outlook. The initial deployment of rplidar and mapping algorithms on top of slam will be completed within two weeks. It spends on data anaylsis and processing, and the remaining time is spent on algorithm optimization.
 
 9. Description of final experiment or demonstration
 
