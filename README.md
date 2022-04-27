@@ -29,7 +29,7 @@ UTU RAS open project
 3. The system
 
     - Robots, computing platforms and other major elements.
-        - Jetbot or MyAVG, Tello drone, slam, ubuntu 20.02, ROS noetic or ROS2.
+        - Jetbot or MyAVG, Tello drone, slam, ubuntu 20.02, ROS2-foxy.
     - Sensor suites.
         - Rplidar, UWB.
     - Communication.
@@ -47,7 +47,7 @@ UTU RAS open project
 
 5. Background
 
-    Already know: Slam, ROS, Rplidar, Mapping
+    Already know: Slam, ROS2, Rplidar, Mapping
 
     Most confident: Run the rplidar and mapping in the slam
     
